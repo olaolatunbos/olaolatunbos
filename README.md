@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-[![](https://visitcount.itsvg.in/api?id=olaolatunbos&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=olaolatunbos&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=olaolatunbos)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
