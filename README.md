@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with sol
 
 I'm always open to connecting with fellow engineers, mentors, or recruiters.
 
-- [LinkedIn]([www.linkedin.com/in/abdulquadri-olatunbosun-726428328](https://www.linkedin.com/in/abdulquadri-olatunbosun-726428328/))  
+- [LinkedIn](https://www.linkedin.com/in/abdulquadri-olatunbosun-726428328/) 
 - [Email](olaolat@hotmail.com)  
 
 
