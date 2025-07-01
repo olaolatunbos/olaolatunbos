@@ -4,22 +4,19 @@ Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with sol
 ![Profile views](https://komarev.com/ghpvc/?username=olaolatunbos&label=Profile%20views)
 
 
-### Connect with me:
+## 🛠️ My Skills
+
+- ☁️ **Cloud Platforms**: Azure (AZ-900, AZ-104, AZ-400), AWS
+- 🪈 **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Azure Pipeline
+- 🧱 **Infrastructure as Code**: Terraform 
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes
+- 📈 **Monitoring & Logging**: Grafana, Prometheus, Azure App Insights  
+- ✍️ **Version Control & Collaboration**: Git, GitHub, Agile workflows  
 
 
 ---
 
-### Languages and Tools:
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<br />
 
----
 
-### 📊 GitHub Stats
 
 
