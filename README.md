@@ -1,6 +1,5 @@
-# Hi I'm Hamid 👋
+# Hi I'm Abdulquadri 👋
 
-### Senior DevOps Engineer with a focus on Kubernetes (CKA, CKAD, CKS, KCNA, KCSA)
 
 ![Profile views](https://komarev.com/ghpvc/?username=olaolatunbos&label=Profile%20views)
 
