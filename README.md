@@ -1,5 +1,5 @@
 # Hi I'm Abdulquadri 👋
-
+Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with solid expertise in cloud infrastructure, CI/CD pipelines, and infrastructure as code.
 
 ![Profile views](https://komarev.com/ghpvc/?username=olaolatunbos&label=Profile%20views)
 
