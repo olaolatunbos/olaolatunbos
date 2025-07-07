@@ -27,6 +27,7 @@ Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with sol
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4E?style=for-the-badge&logo=argo-cd&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 
 </p>
 
