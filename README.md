@@ -6,10 +6,15 @@ Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with sol
 
 
 ## 🛠️ My Skills
-### 🚀 Languages & Tools:
+- ☁️ **Cloud Platforms**: Azure (AZ-900, AZ-104, AZ-400), AWS
+- 🪈 **DevOps & Automation**: CI/CD pipelines, GitHub Actions, Azure Pipeline
+- 🧱 **Infrastructure as Code**: Terraform 
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes
+- 📈 **Monitoring & Logging**: Grafana, Prometheus, Azure App Insights  
+- ✍️ **Version Control & Collaboration**: Git, GitHub, Agile workflows  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
+  [<img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
