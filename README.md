@@ -11,8 +11,10 @@ Welcome to my GitHub! I'm a driven and detail-focused Software Engineer with sol
 - 🧱 **Infrastructure as Code**: Terraform 
 - 🐳 **Containers & Orchestration**: Docker, Kubernetes
 - 📈 **Monitoring & Logging**: Grafana, Prometheus, Azure App Insights  
-- ✍️ **Version Control & Collaboration**: Git, GitHub, Agile workflows  
+- ✍️ **Version Control & Collaboration**: Git, GitHub, Agile workflows
 
+
+## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
